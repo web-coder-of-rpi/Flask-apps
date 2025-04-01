@@ -12,4 +12,4 @@ def index():
 
 if __name__ == '__main__':
     app.run()# run the app
-#go to 127.0.0.1
+#go to 127.0.0.1:5000/

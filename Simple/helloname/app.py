@@ -12,4 +12,4 @@ def hello(name):#function hello
 #run the app in debug mode
 if __name__ == '__main__':
     app.run(debug=True)
-    #go to 127.0.0.1/hello/YOUR_NAME
+    #go to 127.0.0.1:5000/hello/YOUR_NAME
